@@ -20,4 +20,4 @@ Each challenge is implemented in C++ and includes detailed explanations and docu
 
   
 
-  ![My C++ Certificate]([relative/path/to/image.png](https://github.com/MohamedElsayedd1/CPP-Challenges/blob/main/cpp.png))
+  ![My C++ Certificate](https://github.com/MohamedElsayedd1/CPP-Challenges/blob/main/cpp.png)
