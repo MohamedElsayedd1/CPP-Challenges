@@ -1,0 +1,936 @@
+Part1 =======================================
+Word                Occurrence
+================================ 
+Ah                           1
+And                          1
+As                           4
+But                          2
+Clara                       18
+Clockmaker                   1
+Clocks                       2
+Curiosities                  2
+Each                         3
+Eldenbrook                   5
+Eli                         11
+Elis                        10
+Eliza                        1
+Forest                       1
+Good                         1
+He                           2
+How                          2
+I                            8
+Id                           1
+Im                           1
+In                           1
+Intrigued                    1
+It                           5
+Its                          6
+Ive                          1
+Magic                        1
+Maybe                        2
+Mr                           1
+Mysterious                   1
+One                          2
+Over                         1
+People                       1
+Perhaps                      1
+She                          2
+Take                         1
+Thank                        2
+The                          4
+They                         2
+This                         1
+Thompson                     2
+Unlike                       1
+Welcome                      1
+Well                         1
+What                         2
+With                         2
+Youve                        3
+a                           43
+about                        4
+accepted                     1
+across                       1
+adorned                      1
+after                        1
+again                        1
+ago                          1
+alive                        1
+always                       2
+an                           2
+ancient                      1
+and                         36
+any                          1
+around                       1
+arrived                      1
+art                          1
+artist                       1
+as                           5
+asked                        2
+at                           3
+attempt                      1
+autumn                       1
+away                         3
+balance                      1
+be                           1
+bear                         1
+beating                      1
+beautiful                    1
+beautifully                  1
+beauty                       2
+before                       1
+began                        2
+behind                       1
+below                        1
+between                      2
+bit                          2
+blue                         1
+breath                       1
+bushy                        1
+but                          1
+by                           4
+called                       1
+came                         1
+can                          1
+capture                      3
+capturing                    1
+carvings                     1
+certainly                    1
+chance                       1
+chime                        1
+chiming                      1
+chuckled                     1
+clock                       19
+clockmaker                   3
+clockmakers                  1
+clockmaking                  1
+clocks                       6
+closer                       1
+combination                  1
+come                         2
+commission                   1
+continued                    2
+corner                       1
+could                        1
+couldnt                      1
+countless                    1
+crafted                      1
+craftsmanship                2
+create                       1
+created                      1
+creating                     2
+creation                     1
+creations                    2
+creativity                   1
+creatures                    1
+crisp                        1
+crystalclear                 1
+curiosity                    1
+darkest                      1
+darkness                     1
+days                         1
+deemed                       1
+deep                         2
+deer                         1
+delicate                     3
+deserves                     1
+designs                      2
+detail                       1
+different                    1
+dipped                       1
+distant                      1
+do                           2
+down                         1
+dreams                       1
+dull                         1
+dusty                        1
+each                         3
+echoing                      1
+else                         1
+enchanting                   1
+enchantment                  1
+enduring                     1
+entered                      2
+even                         3
+evening                      1
+every                        2
+experimented                 1
+explore                      1
+expression                   1
+exquisite                    1
+exterior                     1
+extraordinary                1
+eyes                         4
+failure                      1
+family                       2
+far                          1
+feeling                      2
+felt                         2
+few                          1
+filled                       1
+finally                      1
+first                        1
+follow                       1
+for                          7
+forests                      1
+forever                      1
+forget                       1
+forgotten                    1
+found                        1
+from                         4
+fulfillment                  1
+gears                        2
+generations                  1
+gentle                       1
+gently                       1
+gestured                     1
+give                         1
+given                        1
+glade                        1
+gleamed                      1
+gracefully                   1
+grand                        1
+grandfather                  1
+gratitude                    1
+grazing                      1
+greeted                      1
+grew                         1
+grief                        1
+guidance                     1
+had                          5
+hair                         1
+hand                         1
+handed                       1
+hands                        1
+he                           7
+heard                        2
+heart                        2
+hearts                       1
+help                         1
+her                          9
+herself                      1
+hesitated                    1
+hidden                       1
+hide                         1
+high                         1
+hills                        1
+him                          2
+his                          6
+hold                         1
+holding                      1
+hope                         2
+hoping                       1
+horizon                      1
+how                          2
+humble                       1
+if                           1
+imagination                  1
+imbued                       1
+in                          11
+infuse                       1
+inspiration                  2
+inspired                     1
+inspires                     1
+intangible                   1
+interest                     1
+into                         2
+intricate                    2
+is                           2
+it                           3
+its                          3
+just                         2
+keen                         1
+keep                         1
+know                         1
+known                        1
+lands                        1
+leaned                       1
+learning                     1
+leave                        1
+led                          1
+lies                         1
+life                         4
+like                         1
+lined                        1
+looked                       2
+loss                         2
+lost                         1
+love                         1
+made                         1
+magic                        5
+magical                      1
+makers                       1
+man                          1
+mantel                       1
+many                         1
+marking                      1
+master                       1
+masterpiece                  1
+materials                    1
+matter                       1
+me                           3
+memories                     1
+mend                         1
+mesmerized                   1
+moment                       3
+moments                      2
+more                         2
+morning                      2
+moved                        1
+much                         1
+mustache                     1
+my                           6
+named                        1
+neglected                    2
+nestled                      1
+never                        1
+new                          2
+next                         1
+no                           1
+not                          1
+noticed                      1
+now                          1
+of                          31
+old                          6
+on                           1
+once                         3
+one                          2
+other                        1
+others                       1
+our                          2
+overwhelmed                  1
+own                          1
+owner                        1
+pang                         1
+part                         1
+passage                      1
+passed                       2
+peacefully                   1
+perhaps                      2
+piece                        1
+place                        2
+pocket                       2
+pointing                     1
+possibility                  1
+pour                         1
+power                        1
+precious                     1
+precision                    1
+prepared                     1
+promised                     1
+pulse                        1
+pure                         1
+purpose                      1
+quaint                       1
+quite                        1
+rather                       1
+read                         1
+reclusive                    1
+reflects                     1
+reminded                     1
+reminder                     2
+renewal                      1
+renewed                      1
+repairing                    1
+resilience                   1
+return                       1
+rhythmic                     1
+right                        2
+rolling                      1
+said                         5
+say                          1
+searching                    1
+seated                       1
+second                       1
+secrets                      1
+see                          3
+seemed                       3
+seen                         1
+sense                        2
+sensing                      1
+seventies                    1
+shape                        1
+she                          8
+sheer                        1
+shelf                        1
+shop                         7
+shown                        1
+sign                         1
+simple                       1
+size                         1
+sketched                     1
+small                        4
+smile                        1
+smiled                       2
+smoothly                     1
+so                           2
+soft                         1
+softly                       1
+somber                       1
+someday                      1
+something                    4
+sorry                        1
+soul                         2
+sparkled                     1
+special                      2
+spent                        1
+sprang                       1
+stood                        2
+story                        3
+storytellers                 1
+studied                      1
+such                         1
+sun                          1
+sunlit                       1
+sympathy                     1
+symphony                     1
+tales                        2
+tarnished                    1
+tears                        1
+tells                        1
+than                         1
+that                        11
+thats                        1
+the                         35
+their                        1
+them                         7
+there                        2
+theres                       2
+they                         1
+this                         2
+thoughtful                   1
+through                      3
+tick                         1
+ticking                      2
+time                         7
+timekeepers                  1
+timeless                     1
+to                          21
+today                        1
+together                     1
+token                        1
+took                         1
+touch                        1
+towering                     1
+tranquility                  1
+trembling                    1
+tried                        1
+true                         1
+turned                       1
+turning                      1
+twinkling                    1
+unassuming                   1
+understand                   2
+unlike                       1
+unparalleled                 1
+up                           1
+village                      2
+voice                        1
+waited                       1
+walk                         1
+walked                       1
+walls                        1
+wanted                       2
+warm                         1
+was                         12
+watch                        2
+watched                      1
+watches                      1
+watching                     1
+way                          1
+went                         1
+were                         1
+where                        2
+which                        1
+whispered                    1
+white                        1
+wide                         1
+wife                         1
+window                       1
+wisps                        1
+with                        19
+within                       1
+woman                        1
+wonder                       1
+wooden                       1
+woodland                     1
+work                         1
+workbench                    1
+worked                       1
+would                        2
+wound                        1
+wounds                       1
+yearning                     1
+years                        1
+you                         11
+young                        1
+your                         2
+youre                        1
+Part2 =======================================
+Word                Occurrence
+================================ 
+Ah                          [ 30 ]
+And                         [ 50 ]
+As                          [ 8 28 46 48 ]
+But                         [ 24 26 ]
+Clara                       [ 6 8 10 14 18 20 24 28 32 34 36 38 42 44 46 48 ]
+Clockmaker                  [ 1 ]
+Clocks                      [ 2 50 ]
+Curiosities                 [ 2 50 ]
+Each                        [ 4 8 16 ]
+Eldenbrook                  [ 2 6 22 46 48 ]
+Eli                         [ 2 4 10 16 22 26 34 38 44 46 ]
+Elis                        [ 2 6 8 20 30 36 40 50 ]
+Eliza                       [ 30 ]
+Forest                      [ 22 ]
+Good                        [ 12 ]
+He                          [ 10 20 ]
+How                         [ 12 18 ]
+I                           [ 12 14 22 26 30 ]
+Id                          [ 30 ]
+Im                          [ 32 ]
+In                          [ 2 ]
+Intrigued                   [ 18 ]
+It                          [ 2 20 22 30 ]
+Its                         [ 24 26 30 38 40 46 ]
+Ive                         [ 14 ]
+Magic                       [ 16 ]
+Maybe                       [ 34 ]
+Mr                          [ 14 ]
+Mysterious                  [ 1 ]
+One                         [ 6 38 ]
+Over                        [ 36 ]
+People                      [ 4 ]
+Perhaps                     [ 32 ]
+She                         [ 6 36 ]
+Take                        [ 46 ]
+Thank                       [ 42 44 ]
+The                         [ 1 2 8 48 ]
+They                        [ 16 38 ]
+This                        [ 22 ]
+Thompson                    [ 2 14 ]
+Unlike                      [ 28 ]
+Welcome                     [ 12 ]
+Well                        [ 16 ]
+What                        [ 18 28 ]
+With                        [ 36 40 ]
+Youve                       [ 42 44 ]
+a                           [ 2 4 6 8 12 14 16 20 22 26 28 30 32 34 40 44 46 48 ]
+about                       [ 6 14 16 28 ]
+accepted                    [ 48 ]
+across                      [ 22 ]
+adorned                     [ 20 ]
+after                       [ 30 ]
+again                       [ 40 ]
+ago                         [ 22 ]
+alive                       [ 40 ]
+always                      [ 6 42 ]
+an                          [ 6 20 ]
+ancient                     [ 2 ]
+and                         [ 2 4 6 8 10 14 16 20 22 26 28 30 34 36 38 42 44 46 48 50 ]
+any                         [ 2 ]
+around                      [ 14 ]
+arrived                     [ 6 ]
+art                         [ 36 ]
+artist                      [ 6 ]
+as                          [ 8 10 20 38 40 ]
+asked                       [ 18 28 ]
+at                          [ 10 30 36 ]
+attempt                     [ 30 ]
+autumn                      [ 6 ]
+away                        [ 28 30 48 ]
+balance                     [ 36 ]
+be                          [ 20 ]
+bear                        [ 30 ]
+beating                     [ 8 ]
+beautiful                   [ 24 ]
+beautifully                 [ 46 ]
+beauty                      [ 14 44 ]
+before                      [ 38 ]
+began                       [ 22 36 ]
+behind                      [ 14 ]
+below                       [ 38 ]
+between                     [ 2 36 ]
+bit                         [ 16 26 ]
+blue                        [ 2 ]
+breath                      [ 38 ]
+bushy                       [ 2 ]
+but                         [ 4 ]
+by                          [ 8 14 22 24 ]
+called                      [ 6 ]
+came                        [ 22 ]
+can                         [ 12 ]
+capture                     [ 4 16 22 ]
+capturing                   [ 44 ]
+carvings                    [ 20 ]
+certainly                   [ 16 ]
+chance                      [ 32 ]
+chime                       [ 40 ]
+chiming                     [ 8 ]
+chuckled                    [ 16 ]
+clock                       [ 4 16 20 22 28 30 32 34 36 38 40 ]
+clockmaker                  [ 4 32 48 ]
+clockmakers                 [ 26 ]
+clockmaking                 [ 36 ]
+clocks                      [ 6 8 14 50 ]
+closer                      [ 24 ]
+combination                 [ 26 ]
+come                        [ 4 40 ]
+commission                  [ 4 ]
+continued                   [ 28 50 ]
+corner                      [ 20 ]
+could                       [ 20 ]
+couldnt                     [ 30 ]
+countless                   [ 2 ]
+crafted                     [ 46 ]
+craftsmanship               [ 4 26 ]
+create                      [ 18 ]
+created                     [ 4 ]
+creating                    [ 30 32 ]
+creation                    [ 26 ]
+creations                   [ 6 48 ]
+creativity                  [ 36 ]
+creatures                   [ 20 ]
+crisp                       [ 6 ]
+crystalclear                [ 20 ]
+curiosity                   [ 10 ]
+darkest                     [ 42 ]
+darkness                    [ 30 ]
+days                        [ 36 ]
+deemed                      [ 40 ]
+deep                        [ 6 44 ]
+deer                        [ 22 ]
+delicate                    [ 8 20 36 ]
+deserves                    [ 32 ]
+designs                     [ 4 36 ]
+detail                      [ 24 ]
+different                   [ 36 ]
+dipped                      [ 38 ]
+distant                     [ 4 ]
+do                          [ 18 24 ]
+down                        [ 26 ]
+dreams                      [ 16 ]
+dull                        [ 38 ]
+dusty                       [ 28 ]
+each                        [ 26 36 50 ]
+echoing                     [ 50 ]
+else                        [ 26 ]
+enchanting                  [ 48 ]
+enchantment                 [ 4 ]
+enduring                    [ 50 ]
+entered                     [ 8 10 ]
+even                        [ 16 36 42 ]
+evening                     [ 38 ]
+every                       [ 8 46 ]
+experimented                [ 36 ]
+explore                     [ 28 ]
+expression                  [ 30 ]
+exquisite                   [ 20 ]
+exterior                    [ 38 ]
+extraordinary               [ 6 ]
+eyes                        [ 2 14 20 40 ]
+failure                     [ 40 ]
+family                      [ 22 26 ]
+far                         [ 4 ]
+feeling                     [ 22 44 ]
+felt                        [ 32 48 ]
+few                         [ 36 ]
+filled                      [ 40 ]
+finally                     [ 14 ]
+first                       [ 30 ]
+follow                      [ 20 ]
+for                         [ 4 6 14 20 32 ]
+forests                     [ 2 ]
+forever                     [ 48 ]
+forget                      [ 30 ]
+forgotten                   [ 28 ]
+found                       [ 32 ]
+from                        [ 4 8 48 ]
+fulfillment                 [ 44 ]
+gears                       [ 20 38 ]
+generations                 [ 26 ]
+gentle                      [ 40 ]
+gently                      [ 32 ]
+gestured                    [ 20 ]
+give                        [ 34 ]
+given                       [ 42 ]
+glade                       [ 22 ]
+gleamed                     [ 38 ]
+gracefully                  [ 40 ]
+grand                       [ 8 ]
+grandfather                 [ 8 ]
+gratitude                   [ 48 ]
+grazing                     [ 22 ]
+greeted                     [ 8 ]
+grew                        [ 30 ]
+grief                       [ 30 ]
+guidance                    [ 36 ]
+had                         [ 6 8 20 40 ]
+hair                        [ 2 ]
+hand                        [ 36 ]
+handed                      [ 46 ]
+hands                       [ 40 ]
+he                          [ 4 12 20 40 42 46 ]
+heard                       [ 6 14 ]
+heart                       [ 26 48 ]
+hearts                      [ 8 ]
+help                        [ 12 ]
+her                         [ 6 10 14 20 36 46 48 ]
+herself                     [ 6 ]
+hesitated                   [ 14 ]
+hidden                      [ 28 ]
+hide                        [ 2 ]
+high                        [ 28 ]
+hills                       [ 2 ]
+him                         [ 20 36 ]
+his                         [ 2 4 10 42 48 ]
+hold                        [ 48 ]
+holding                     [ 38 ]
+hope                        [ 42 50 ]
+hoping                      [ 4 ]
+horizon                     [ 38 ]
+how                         [ 24 46 ]
+humble                      [ 12 ]
+if                          [ 8 ]
+imagination                 [ 26 ]
+imbued                      [ 4 ]
+in                          [ 2 6 16 22 24 26 30 36 42 48 ]
+infuse                      [ 24 ]
+inspiration                 [ 6 48 ]
+inspired                    [ 22 ]
+inspires                    [ 18 ]
+intangible                  [ 26 ]
+interest                    [ 10 ]
+into                        [ 26 36 ]
+intricate                   [ 4 20 ]
+is                          [ 42 46 ]
+it                          [ 24 28 30 ]
+its                         [ 34 38 48 ]
+just                        [ 4 32 ]
+keen                        [ 10 ]
+keep                        [ 32 ]
+know                        [ 42 ]
+known                       [ 4 ]
+lands                       [ 4 ]
+leaned                      [ 24 ]
+learning                    [ 36 ]
+leave                       [ 46 ]
+led                         [ 20 ]
+lies                        [ 26 ]
+life                        [ 8 24 38 40 ]
+like                        [ 32 ]
+lined                       [ 8 ]
+looked                      [ 10 34 ]
+loss                        [ 32 50 ]
+lost                        [ 30 ]
+love                        [ 50 ]
+made                        [ 4 ]
+magic                       [ 4 14 26 44 ]
+magical                     [ 48 ]
+makers                      [ 16 ]
+man                         [ 2 ]
+mantel                      [ 20 ]
+many                        [ 22 ]
+marking                     [ 40 ]
+master                      [ 4 ]
+masterpiece                 [ 4 ]
+materials                   [ 36 ]
+matter                      [ 46 ]
+me                          [ 42 44 ]
+memories                    [ 16 ]
+mend                        [ 34 ]
+mesmerized                  [ 24 ]
+moment                      [ 14 22 46 ]
+moments                     [ 16 42 ]
+more                        [ 38 42 ]
+morning                     [ 6 12 ]
+moved                       [ 40 ]
+much                        [ 14 ]
+mustache                    [ 2 ]
+my                          [ 12 14 26 30 ]
+named                       [ 6 ]
+neglected                   [ 28 36 ]
+nestled                     [ 2 ]
+never                       [ 30 ]
+new                         [ 34 38 ]
+next                        [ 36 ]
+no                          [ 46 ]
+not                         [ 4 ]
+noticed                     [ 28 ]
+now                         [ 38 ]
+of                          [ 2 4 6 8 14 16 20 22 26 30 32 36 40 42 44 46 48 50 ]
+old                         [ 26 28 32 34 36 38 ]
+on                          [ 28 ]
+once                        [ 38 40 ]
+one                         [ 8 28 ]
+other                       [ 2 ]
+others                      [ 28 ]
+our                         [ 42 46 ]
+overwhelmed                 [ 14 ]
+own                         [ 14 ]
+owner                       [ 2 ]
+pang                        [ 32 ]
+part                        [ 30 ]
+passage                     [ 40 ]
+passed                      [ 26 30 ]
+peacefully                  [ 22 ]
+perhaps                     [ 14 26 ]
+piece                       [ 4 ]
+place                       [ 2 48 ]
+pocket                      [ 8 46 ]
+pointing                    [ 28 ]
+possibility                 [ 42 ]
+pour                        [ 26 ]
+power                       [ 50 ]
+precious                    [ 46 ]
+precision                   [ 36 ]
+prepared                    [ 46 ]
+promised                    [ 48 ]
+pulse                       [ 8 ]
+pure                        [ 22 ]
+purpose                     [ 48 ]
+quaint                      [ 2 ]
+quite                       [ 30 ]
+rather                      [ 30 ]
+read                        [ 2 ]
+reclusive                   [ 2 ]
+reflects                    [ 30 ]
+reminded                    [ 42 ]
+reminder                    [ 30 46 ]
+renewal                     [ 42 ]
+renewed                     [ 48 ]
+repairing                   [ 36 ]
+resilience                  [ 44 ]
+return                      [ 48 ]
+rhythmic                    [ 40 ]
+right                       [ 30 34 ]
+rolling                     [ 2 ]
+said                        [ 12 14 32 42 46 ]
+say                         [ 16 ]
+searching                   [ 6 ]
+seated                      [ 10 ]
+second                      [ 32 ]
+secrets                     [ 2 ]
+see                         [ 6 14 16 ]
+seemed                      [ 2 8 28 ]
+seen                        [ 20 ]
+sense                       [ 44 48 ]
+sensing                     [ 10 ]
+seventies                   [ 2 ]
+shape                       [ 8 ]
+she                         [ 8 14 24 28 32 48 ]
+sheer                       [ 14 ]
+shelf                       [ 28 ]
+shop                        [ 2 8 12 20 28 36 48 ]
+shown                       [ 44 ]
+sign                        [ 2 ]
+simple                      [ 2 ]
+size                        [ 8 ]
+sketched                    [ 36 ]
+small                       [ 2 20 46 ]
+smile                       [ 12 ]
+smiled                      [ 26 44 ]
+smoothly                    [ 38 ]
+so                          [ 14 50 ]
+soft                        [ 40 ]
+softly                      [ 16 ]
+somber                      [ 30 ]
+someday                     [ 48 ]
+something                   [ 6 16 26 ]
+sorry                       [ 32 ]
+soul                        [ 16 26 ]
+sparkled                    [ 20 ]
+special                     [ 16 48 ]
+spent                       [ 36 ]
+sprang                      [ 40 ]
+stood                       [ 20 38 ]
+story                       [ 16 34 50 ]
+storytellers                [ 4 ]
+studied                     [ 10 ]
+such                        [ 24 ]
+sun                         [ 38 ]
+sunlit                      [ 22 ]
+sympathy                    [ 32 ]
+symphony                    [ 8 ]
+tales                       [ 6 50 ]
+tarnished                   [ 38 ]
+tears                       [ 40 ]
+tells                       [ 16 ]
+than                        [ 42 ]
+that                        [ 2 4 22 28 30 34 36 42 46 ]
+thats                       [ 26 ]
+the                         [ 2 14 16 20 22 24 26 28 30 32 36 38 40 42 44 48 50 ]
+their                       [ 38 ]
+them                        [ 4 6 8 14 16 18 ]
+there                       [ 2 42 ]
+theres                      [ 16 26 ]
+they                        [ 8 ]
+this                        [ 22 46 ]
+thoughtful                  [ 34 ]
+through                     [ 20 22 26 ]
+tick                        [ 50 ]
+ticking                     [ 8 40 ]
+time                        [ 16 30 34 36 40 44 46 ]
+timekeepers                 [ 4 ]
+timeless                    [ 50 ]
+to                          [ 2 4 6 8 12 14 20 22 28 30 32 34 36 40 46 48 ]
+today                       [ 12 ]
+together                    [ 46 ]
+token                       [ 46 ]
+took                        [ 22 ]
+touch                       [ 4 ]
+towering                    [ 8 ]
+tranquility                 [ 22 ]
+trembling                   [ 42 ]
+tried                       [ 36 ]
+true                        [ 26 ]
+turned                      [ 38 ]
+turning                     [ 20 ]
+twinkling                   [ 2 ]
+unassuming                  [ 2 ]
+understand                  [ 14 36 ]
+unlike                      [ 2 ]
+unparalleled                [ 4 ]
+up                          [ 10 ]
+village                     [ 2 48 ]
+voice                       [ 42 ]
+waited                      [ 38 ]
+walk                        [ 22 ]
+walked                      [ 48 ]
+walls                       [ 8 ]
+wanted                      [ 14 22 ]
+warm                        [ 12 ]
+was                         [ 2 4 6 8 20 22 30 ]
+watch                       [ 46 48 ]
+watched                     [ 40 ]
+watches                     [ 8 ]
+watching                    [ 36 ]
+way                         [ 32 ]
+went                        [ 36 ]
+were                        [ 8 ]
+where                       [ 20 26 ]
+which                       [ 20 ]
+whispered                   [ 24 ]
+white                       [ 2 ]
+wide                        [ 4 ]
+wife                        [ 30 ]
+window                      [ 20 ]
+wisps                       [ 2 ]
+with                        [ 2 4 8 10 12 14 20 24 30 36 38 40 46 48 50 ]
+within                      [ 8 ]
+woman                       [ 6 ]
+wonder                      [ 10 ]
+wooden                      [ 2 ]
+woodland                    [ 20 ]
+work                        [ 36 ]
+workbench                   [ 10 ]
+worked                      [ 30 ]
+would                       [ 4 48 ]
+wound                       [ 38 ]
+wounds                      [ 34 ]
+yearning                    [ 6 ]
+years                       [ 22 ]
+you                         [ 12 16 18 24 32 42 44 46 ]
+young                       [ 6 ]
+your                        [ 14 32 ]
+youre                       [ 34 ]
